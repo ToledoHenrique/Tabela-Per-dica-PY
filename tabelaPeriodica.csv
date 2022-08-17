@@ -1,0 +1,9 @@
+simbolo;nome;atomico;linha;coluna;estado;
+Cl;Cloro;17;3;17;Gasoso;
+Al;Aluminio;13;3;13;Solido;
+He;Helio;2;1;18;Gasoso;
+Ca;Calcio;20;4;2;Solido;
+Sn;Estanho;50;5;14;Solido;
+Hg;Mercurio;80;6;12;Liquido;
+Br;Bromo;35;4;17;Liquido;
+Kr;Cripton;36;4;18;Gasoso;
